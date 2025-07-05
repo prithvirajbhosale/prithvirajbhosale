@@ -3,7 +3,7 @@ I'm a Backend Software Developer
 - 🔭 I’m currently working on Spring Boot Projects
 - 🌱 I’m currently learning Javascript,React,Node.Js
 - 👯 I’m looking to collaborate on any backend projects
-- 🤔 I’m looking for help with interview preparation 
+
 
 
 ## 🌐 Socials:
